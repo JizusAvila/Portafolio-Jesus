@@ -1,0 +1,106 @@
+body{
+	font-family: 'Hammersmith One', sans-serif;
+}
+#intro{
+	background-image: url( ../img/shanghai-2446326_1920.jpg);
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+	color: #000;
+	height: 400px;
+	padding-bottom: 0px;
+
+}
+#intro h1{
+	color: #FFFFFF;
+	padding-top: 150px;
+	font-size: 50px;
+}
+#intro h4{
+	color: #FFFFFF;
+	font-size: 30px;
+	padding-bottom: 20px;
+}
+
+#intro .btn-default{
+	background-color: transparent;
+	border-width: 2px;
+	color: #fff;
+}
+#intro .btn-default:hover{
+	background-color: #F36595;
+	border-color: #F36595;
+	
+}
+
+#about{
+	
+	background-image: url( ../img/texture_102_3200x2400_by_frostbo-d4in40f.jpg);
+	background-repeat: no-repeat;
+	
+	background-size: cover;
+	color: ;
+	height: 400px;
+	width: auto;
+}
+
+#services{
+	background-color: #445761;
+	color: #fff;
+}
+
+#services .fa{
+	font-size: 40px !important;
+	color: #343333;
+	border-radius: 10px;
+	width: 80px;
+	height: 80px;
+	line-height: 80px;
+	box-sizing: padding-box;
+}
+
+#services #foto p{
+	font-weight: lighter;
+}
+
+#foto i{
+	background-color: #FFFFFF;
+}
+
+#services #laptop p{
+	font-weight: lighter;
+}
+
+#laptop i{
+	background-color: #FFFFFF;
+}
+
+#services #multi p{
+	font-weight: lighter;
+}
+
+#multi i{
+	background-color: #FFFFFF;
+}
+
+
+#proyecto{
+	
+	background-image: url( ../img/texture_102_3200x2400_by_frostbo-d4in40f.jpg);
+	background-repeat: no-repeat;
+	
+	background-size: cover;
+	color: ;
+	height: 400px;
+	width: auto;
+}
+
+
+footer{
+	text-align: center;
+	border-top: solid 1px #ddd;
+	padding: 20px 0px;
+}
+
+
+
